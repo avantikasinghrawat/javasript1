@@ -1,0 +1,17 @@
+alert("hello");
+........
+ var a,b,c;
+    a=4;
+    b=4;
+    c=a+b;
+    console.log(c);
+ ..........
+var num
+num=5
+parseInt(num)
+var fact=1,i;
+for(i=1;i<=num;i++)
+    {
+        fact=fact*i;
+    }
+console.log(fact);
